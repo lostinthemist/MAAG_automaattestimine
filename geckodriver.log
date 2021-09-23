@@ -1,0 +1,34 @@
+1632152731979	geckodriver	INFO	Listening on 127.0.0.1:64248
+1632152732998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lxxywcwx0634ggj5bt0qxq880000gn/T/rust_mozprofileoY0ezn"
+1632152733598	Marionette	INFO	Marionette enabled
+2021-09-20 18:45:34.550 firefox-bin[71985:2621915] Warning: Expected min height of view: (<NSButton: 0x132514c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-09-20 18:45:34.551 firefox-bin[71985:2621915] Warning: Expected min height of view: (<NSButton: 0x132731c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-09-20 18:45:34.551 firefox-bin[71985:2621915] Warning: Expected min height of view: (<NSButton: 0x13272ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-09-20 18:45:34.552 firefox-bin[71985:2621915] Warning: Expected min height of view: (<NSButton: 0x13272c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-09-20 18:45:34.553 firefox-bin[71985:2621915] Warning: Expected min height of view: (<NSButton: 0x13272bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-09-20 18:45:34.554 firefox-bin[71985:2621915] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13272b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-09-20 18:45:34.554 firefox-bin[71985:2621915] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13273ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://addons.mozilla.org/firefox/downloads/latest/pkcs11-module-loader/latest.xpi
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://addons.mozilla.org/firefox/downloads/latest/token-signing2/latest.xpi
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/k6/lxxywcwx0634ggj5bt0qxq880000gn/T/rust_mozprofileoY0ezn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1632152735764	Marionette	INFO	Listening on port 64263
+1632152735790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70008.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70008.1, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70008.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70008.1, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70008.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70008.1, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70008.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70008.1, line 488: unreachable code after return statement
+1632152745868	Marionette	INFO	Stopped listening on port 64263
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

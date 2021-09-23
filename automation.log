@@ -1,0 +1,80 @@
+20/09/2021 17:35:44 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 17:35:45 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 17:35:45 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 17:35:45 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 17:35:45 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 17:35:45 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 17:35:45 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 17:35:46 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 17:35:51 - LoginPage - INFO: Element not found with locator: //span[@class='dynamic-text help-block'] and locatortype: xpath
+20/09/2021 17:35:51 - LoginPage - INFO: Element not found
+20/09/2021 17:35:51 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 17:35:52 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 17:35:52 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 17:35:52 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 17:35:52 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 17:35:52 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 17:35:52 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 17:35:54 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 17:35:54 - LoginPage - INFO: Element found with locator: caret and locatortype: class
+20/09/2021 17:35:54 - LoginPage - INFO: Element found
+20/09/2021 18:18:14 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 18:18:15 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 18:18:15 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 18:18:15 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 18:18:15 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 18:18:15 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 18:18:15 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 18:18:17 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 18:18:22 - LoginPage - INFO: Element not found with locator: //span[@class='dynamic-text help-block'] and locatortype: xpath
+20/09/2021 18:18:22 - LoginPage - INFO: Element not found
+20/09/2021 18:18:22 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 18:18:23 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 18:18:23 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 18:18:23 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 18:18:23 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 18:18:23 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 18:18:23 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 18:18:25 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 18:18:25 - LoginPage - INFO: Element found with locator: caret and locatortype: class
+20/09/2021 18:18:25 - LoginPage - INFO: Element found
+20/09/2021 18:42:50 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 18:42:51 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 18:42:51 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 18:42:51 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 18:42:51 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 18:42:51 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 18:42:51 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 18:42:52 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 18:42:57 - LoginPage - INFO: Element not found with locator: //span[@class='dynamic-text help-block'] and locatortype: xpath
+20/09/2021 18:42:57 - LoginPage - INFO: Element not found
+20/09/2021 18:42:57 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 18:42:58 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 18:42:58 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 18:42:58 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 18:42:58 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 18:42:58 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 18:42:58 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 18:43:00 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 18:43:00 - LoginPage - INFO: Element found with locator: caret and locatortype: class
+20/09/2021 18:43:00 - LoginPage - INFO: Element found
+20/09/2021 18:45:40 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 18:45:40 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 18:45:40 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 18:45:40 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 18:45:40 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 18:45:40 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 18:45:40 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 18:45:42 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 18:45:42 - LoginPage - INFO: Element found with locator: //span[@class='dynamic-text help-block'] and locatortype: xpath
+20/09/2021 18:45:42 - LoginPage - INFO: Element found
+20/09/2021 18:45:42 - LoginPage - INFO: Element found with locator: //a[@href='/login'] and locatortype: xpath
+20/09/2021 18:45:42 - LoginPage - INFO: Clicked on element with locator: //a[@href='/login'] locatortype: xpath
+20/09/2021 18:45:42 - LoginPage - INFO: Element found with locator: //div[@class='form-group']/input[@type='email'] and locatortype: xpath
+20/09/2021 18:45:43 - LoginPage - INFO: Send data on element with locator: //div[@class='form-group']/input[@type='email'] locatortype: xpath
+20/09/2021 18:45:43 - LoginPage - INFO: Element found with locator: password and locatortype: id
+20/09/2021 18:45:43 - LoginPage - INFO: Send data on element with locator: password locatortype: id
+20/09/2021 18:45:43 - LoginPage - INFO: Element found with locator: //input[@type='submit'] and locatortype: xpath
+20/09/2021 18:45:45 - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatortype: xpath
+20/09/2021 18:45:45 - LoginPage - INFO: Element found with locator: caret and locatortype: class
+20/09/2021 18:45:45 - LoginPage - INFO: Element found
